@@ -1,0 +1,62 @@
+---
+title: Papers
+---
+# 2025
+
+**Behr, Y.**; Christophersen, A.; & Miller, C. 2025 Probabilistic, Multi-Sensor Eruption Forecasting. Geophysical Research Letters, 52(8), doi: [10.1029/2024GL112029](https://doi.org/10.1029/2024GL112029)
+
+# 2024
+
+Andrews, J.R.; **Behr, Y.**; Bose, M.; Massin, F.; Kaiser, A.E.; Fry, B. 2024 Rapid earthquake rupture characterization for New Zealand using the FinDer algorithm. Bulletin / Seismological Society of America, 114(2): P. 775-793; doi: [10.1785/0120230213](https://doi.org/10.1785/0120230213)
+
+Hanson, J.B.; Sherburn, S.; **Behr, Y.**; Britten, K.; Hughes, E.C.; Jarvis, P.A.; Lamb, O.D.; Mazot, A.; Fitzgerald, R.H.; Scott, B.J.; Fournier, N. 2024 Twenty years of volcano data at GeoNet : collection, custodianship, and evolution of open data on New Zealand’s volcanoes. Bulletin of Volcanology, 86: article 81; doi: [10.1007/s00445-024-01769-x](https://doi.org/10.1007/s00445-024-01769-x)
+
+# 2023
+
+**Behr, Y.**; Sherburn, S.; Hurst, A.W. 2023 Continuous estimates of heat emission at Mt. Ruapehu using the Unscented Kalman Smoother. Journal of Applied Volcanology, 12(1): article 1; doi: [10.1186/s13617-022-00125-y](https://doi.org/10.1186/s13617-022-00125-y)
+
+# 2022
+
+Christophersen, A.; **Behr, Y.**; Miller, C.A. 2022 Automated eruption forecasting at frequently active volcanoes using Bayesian networks learned from monitoring data and expert elicitation : application to Mt Ruapehu, Aotearoa, New Zealand. Frontiers in Earth Science, 10: article 905965; doi: [10.3389/feart.2022.905965](https://doi.org/10.3389/feart.2022.905965)
+
+Trancoso, R.; **Behr, Y.**; Hurst, A.W.; Deligne, N.I. 2022 Towards real-time probabilistic ash deposition forecasting for New Zealand. Journal of Applied Volcanology, 11(1): article 13; doi: [10.1186/s13617-022-00123-0](https://doi.org/10.1186/s13617-022-00123-0)
+
+# 2018
+Psimoulis, P.A.; Houlie, N.; **Behr, Y.** 2018 Real-time magnitude characterization of large earthquakes using the predominant period derived from 1 Hz GPS data. Geophysical Research Letters, 45(2): 517-526; doi: [10.1002/2017GL075816](https://doi.org/10.1002/2017GL075816)
+
+# 2016
+**Behr, Y.**; Clinton, J.F.; Cauzzi, C.; Hauksson, E.; Jonsdottir, K.; Marius, C.G.; Pina, A.; Salichon, J.; Sokos, E. 2016 The virtual seismologist in SeisComP3 : a new implementation strategy for earthquake early warning algorithms. Seismological Research Letters, 87(2A): 363-373; doi: [10.1785/0220150235](https://doi.org/10.1785/0220150235)
+
+Cauzzi, C.; **Behr, Y.**; Clinton, J.; Kästli, P.; Elia, L.; Zolla, A. 2016 An open-source earthquake early warning display. Seismological Research Letters, 87(3): 737-742; doi: [10.1785/0220150284](https://doi.org/10.1785/0220150284)
+
+Cauzzi, C.; **Behr, Y.**; Le Guenan, T.; Douglas, J.; Auclair, S.; Woessner, J.; Clinton, J.; Wiemer, S. 2016 Earthquake early warning and operational earthquake forecasting as real-time hazard information to mitigate seismic risk at nuclear facilities. Bulletin of Earthquake Engineering, 14(9): 2495-2512; doi: [10.1007/s10518-016-9864-0](https://doi.org/10.1007/s10518-016-9864-0)
+
+# 2015
+**Behr, Y.**; Clinton, J.; Kästli, P.; Cauzzi, C.; Racine, R.; Meier, M.-A. 2015 Anatomy of an earthquake early warning (EEW) alert : predicting time delays for an end-to-end eew system. Seismological Research Letters, 86(3): 1-11; doi: [10.1785/0220140179](https://doi.org/10.1785/0220140179)
+
+Diehl, T.; Deichmann, N.; Clinton, J.; Kästli, P.; Cauzzi, C.; Kraft, T.; **Behr, Y.**; Edwards, B.; Guilhem, A.; Korger, E.; Hobiger, M.; Haslinger, F.; Fäh, D.; Wiemer, S. 2015 Earthquakes in Switzerland and surrounding regions during 2014. Swiss Journal of Geosciences, 108(2-3): 425-443; doi: [10.1007/s00015-015-0204-1](https://doi.org/10.1007/s00015-015-0204-1)
+
+# 2014
+Diehl, T.; Clinton, J.; Kraft, T.; Husen, S.; Plenkers, K.; Guilhelm, A.; **Behr, Y.**; Cauzzi, C.; Kästli, P.; Haslinger, F.; Fäh, D.; Michel, C.; Wiemer, S. 2014 Earthquakes in Switzerland and surrounding regions during 2013. Swiss Journal of Geosciences, 107(2-3): 359-375; doi: [10.1007/s00015-014-0171-y](https://doi.org/10.1007/s00015-014-0171-y)
+
+# 2013
+**Behr, Y.**; Townend, J.; Bowen, M.; Carter, L.; Gorman, R.; Brooks, L.; Bannister, S. 2013 Source directionality of ambient seismic noise inferred from three-component beamforming. Journal of Geophysical Research. Solid Earth, 118(1): 240-248; doi: [10.1029/2012JB009382](https://doi.org/10.1029/2012JB009382)
+
+Kao, H.; **Behr, Y.**; Currie, C.A.; Hyndman, R.; Townend, J.; Lin, F.-C.; Ritzwoller, M.H.; Shan, S.-J.; He, J. 2013 Ambient seismic noise tomography of Canada and adjacent regions : Part 1. Crustal structures. Journal of Geophysical Research. Solid Earth, 118(11): 5865-5887; doi: [10.1002/2013JB010535](https://doi.org/10.1002/2013JB010535)
+
+# 2012
+Curtis, A.; **Behr, Y.**; Entwistle, E.; Galetti, E.; Townend, J.; Bannister, S. 2012 The benefit of hindsight in observational science: retrospective seismological observations. Earth and Planetary Science Letters, 345-348: 212-220; doi: [10.1016/j.epsl.2012.06.008](https://doi.org/10.1016/j.epsl.2012.06.008)
+
+# 2011
+**Behr, Y.**; Townend, J.; Bannister, S.; Savage, M.K. 2011 Crustal shear wave tomography of the Taupo Volcanic Zone, New Zealand, via ambient noise correlation between multiple three-component networks. Geochemistry Geophysics Geosystems, 12(3): Q03015; doi: [10.1029/2010GC003385](https://doi.org/10.1029/2010GC003385)
+
+# 2010
+**Behr, Y.**; Townend, J.; Bannister, S.; Savage, M.K. 2010 Shear velocity structure of the Northland Peninsula, New Zealand, inferred from ambient noise correlations. Journal of Geophysical Research. Solid Earth, 115: B05309; doi: [10.1029/2009JB006737](https://doi.org/10.1029/2009JB006737)
+
+Beyreuther, M.; Barsch, R.; Krischer, L.; Megies, T.; **Behr, Y.**; Wassermann, J. 2010 ObsPy : a python toolbox for seismology. Seismological Research Letters, 81(3): 530-533; doi: [10.1785/gssrl.81.3.530](https://doi.org/10.1785/gssrl.81.3.530)
+
+# 2008
+Walter, T.R.; Wang, R.; Luehr, B.G.; Wassermann, J.; **Behr, Y.**; Parolai, S.; Anggraini, A.; Günther, E.; Sobiesiak, M.; Grosser, H.; Wetzel, H.U.; Milkereit, C.; Sri Brotopuspito, P.J.K.; Harjadi, P.; Zschau, J. 2008 The 26 May 2006 magnitude 6.4 Yogyakarta earthquake south of Mt. Merapi volcano : did lahar deposits amplify ground shaking and thus lead to the disaster?. Geochemistry Geophysics Geosystems, 9(5): Q05006; doi: [10.1029/2007GC001810](https://doi.org/10.1029/2007GC001810)
+
+# 2007
+Walter, T.R.; Lühr, B.; Sobiesiak, M.; Grosser, H.; Wang, R.; Parolai, S.; Wetzel, H.U.; Zschau, J.; Milkereit, C.; Günther, E.; Wassermann, J.; **Behr, Y.**; Anggraini, A.; Brotopuspito, K.S.; Harjadi, P. 2007 Soft volcanic sediments compound 2006 Java earthquake disaster. Eos, 88(46): 486; doi: [10.1029/2007EO460002](https://doi.org/10.1029/2007EO460002)

@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yannik Behr"
+  description: "Yannik Behr is a geophysicist and data scientist working on geohazard monitoring and decision tools using AI/machine learning and physics based models."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers.qmd
+        text: Papers
+  page-footer:
+    left: "(c) Yannik Behr, 2025 –. [Disclaimer](disclaimer)"
+  open-graph: true
+  # google-analytics: "395640625"
+
+format:
+  html:
+    theme:
+      - cosmo
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    fig-align: center
+    include-in-header:
+      text: |
+        <script type='application/ld+json'>{"@context":"http://www.schema.org","@type":"person","name":"Yannik Behr","jobTitle":"Senior Data Science Specialist","description":"Yannik Behr is a geophysicist and data scientist working on geohazard monitoring and decision tools using AI/machine learning and physics based models.","url":"https://yannikbehr.com","image":"https://yannikbehr.com/img/Yannik_mugshot_small.png","address":{"@type":"PostalAddress","addressLocality":"Taupo","addressRegion":"Waikato","postalCode":"3384","addressCountry":"New Zealand"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"ETH Zurich","sameAs":"https://en.wikipedia.org/wiki/ETH_Zurich"},{"@type":"CollegeOrUniversity","name":"Victoria University of Wellington","sameAs":"https://en.wikipedia.org/wiki/Victoria_University_of_Wellington"}, {"@type":"CollegeOrUniversity","name":"LMU Munich","sameAs":"https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich"}],"worksFor":[{"@type":"Organization","name":"GNS Science"}]}</script>
+
+editor:
+  render-on-save: true
+
+
+
+

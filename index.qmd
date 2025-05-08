@@ -1,0 +1,29 @@
+---
+title: "Yannik Behr"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/yannikbehr/
+        - icon: github
+          text: Github
+          url: https://github.com/yannikbehr
+        - text: "Email"
+          url: mailto:website@yannikbehr.com
+        - text: "ORCID 0000-0003-3131-0864"
+          url: https://orcid.org/0000-0002-6047-5396
+        - text: "Google Scholar"
+          url: https://scholar.google.com/citations?user=M2vUY_EAAAAJ&hl=en
+image: img/Yannik_mugshot_small.png
+comments: false
+---
+
+<script type='application/ld+json'>
+ {"@context":"http://www.schema.org","@type":"person","name":"Yannik Behr","jobTitle":"Senior Data Science Specialist","description":"Yannik Behr is a geophysicist and data scientist working on geohazard monitoring and decision tools using AI/machine learning and physics based models.","url":"https://yannikbehr.com","image":"https://yannikbehr.com/img/Yannik_mugshot_small.png","address":{"@type":"PostalAddress","addressLocality":"Taupo","addressRegion":"Waikato","postalCode":"3384","addressCountry":"New Zealand"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"ETH Zurich","sameAs":"https://en.wikipedia.org/wiki/ETH_Zurich"},{"@type":"CollegeOrUniversity","name":"Victoria University of Wellington","sameAs":"https://en.wikipedia.org/wiki/Victoria_University_of_Wellington"}, {"@type":"CollegeOrUniversity","name":"LMU Munich","sameAs":"https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich"}],"worksFor":[{"@type":"Organization","name":"GNS Science"}]}</script>
+</script>
+
+
+**"The theory of probabilities is only common sense reduced to a calculus." —Pierre Simon Laplace**
+
+Probability is the natural language to quantify our decisions' risks and benefits. In my work I mostly focus on probabilistic analysis of earth structure and processes and the related natural hazards. To do so, I combine statistical methods including AI and Machine Learning with physics-based models to interpret datasets. The results are probabilistic models that I provide to decision makers through interactive graphs and dashboards. 
