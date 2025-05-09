@@ -12,14 +12,15 @@ website:
       - href: papers.qmd
         text: Papers
   page-footer:
-    left: "(c) Yannik Behr, 2025 –. [Disclaimer](disclaimer)"
+    left: "© Copyright 2025 Yannik Behr - [Disclaimer](disclaimer)"
   open-graph: true
   # google-analytics: "395640625"
 
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
+      - _variables.scss
     toc: true
     toc_depth: 3
     toc_float: true
