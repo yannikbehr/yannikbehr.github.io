@@ -15,6 +15,8 @@ about:
           url: https://orcid.org/0000-0002-6047-5396
         - text: "Google Scholar"
           url: https://scholar.google.com/citations?user=M2vUY_EAAAAJ&hl=en
+        - text: "CV"
+          url: "cv.pdf"
 image: img/Yannik_mugshot_small.png
 comments: false
 ---
