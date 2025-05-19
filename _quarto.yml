@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - cv.pdf
 
 website:
   title: "Yannik Behr"
+  site-url: https://yannikbehr.com
   description: "Yannik Behr is a geophysicist and data scientist working on geohazard monitoring and decision tools using AI/machine learning and physics based models."
   navbar:
     left:
