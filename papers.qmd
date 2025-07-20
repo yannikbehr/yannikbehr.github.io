@@ -3,6 +3,9 @@ title: Papers
 ---
 # 2025
 
+Andrews, J.; **Behr, Y.**; Böse, M.; Kaiser, A.; Fry, B. 2025 Testing FinDer in New Zealand for Earthquake Early Warning. Seismological Research Letters. [10.1785/0220250092](https://doi.org/10.1785/0220250092)
+
+
 Bramwell, L. A.; Illsley-Kemp, F.; Hughes, E. C.; Butcher, S.; Lamb, O. D.; **Behr, Y.** 2025 Source dynamics of Ruapehu’s 2022 volcanic unrest: insights from drumbeat seismicity, tremor, and crater lake signals. Bulletin of Volcanology, 87(44). [10.1007/s00445-025-01823-2](https://doi.org/10.1007/s00445-025-01823-2)
 
 **Behr, Y.**; Christophersen, A.; & Miller, C. 2025 Probabilistic, Multi-Sensor Eruption Forecasting. Geophysical Research Letters, 52(8), doi: [10.1029/2024GL112029](https://doi.org/10.1029/2024GL112029)
