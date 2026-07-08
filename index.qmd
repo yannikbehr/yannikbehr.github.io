@@ -26,6 +26,4 @@ comments: false
 </script>
 
 
-**"The theory of probabilities is only common sense reduced to a calculus." —Pierre Simon Laplace**
-
-Probability is the natural language to quantify our decisions' risks and benefits. In my work I mostly focus on probabilistic analysis of earth structure and processes and the related natural hazards. To do so, I combine statistical methods including AI and Machine Learning with physics-based models to interpret datasets. The results are probabilistic models that I provide to decision makers through interactive graphs and dashboards. 
+I'm a geophysicist working on natural hazards — mostly volcanoes and earthquakes. My job is turning messy geophysical data into probabilistic answers to practical questions: How likely is an eruption? What's happening beneath the surface? I combine physics-based models with statistical and machine learning methods, and I care a lot about the last mile — getting results out of research code and into tools, dashboards, and monitoring systems that people actually use to make decisions.
